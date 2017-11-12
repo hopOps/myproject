@@ -5,4 +5,7 @@
     package: test
     present: yes
 
-
+- name: This is a another test
+  yum:
+    package: test1
+    present: yes
