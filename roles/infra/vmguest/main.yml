@@ -1,0 +1,8 @@
+---
+
+- name: This is a test
+  yum:
+    package: test
+    present: yes
+
+
